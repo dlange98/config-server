@@ -1,5 +1,5 @@
 application:
-    message: Configured by Azure Spring Cloud
+    message: dan was here
 
 hystrix:
   command:
